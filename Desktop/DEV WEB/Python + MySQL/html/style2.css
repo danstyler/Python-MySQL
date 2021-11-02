@@ -1,0 +1,15 @@
+p {
+    color: red;
+    font-weight: bold;
+}
+
+.verde {
+    color: green;
+    font-size: 42px;
+}
+
+#p2 {
+    text-decoration: underline;
+    font-size: 42px;
+    color: green;
+}
