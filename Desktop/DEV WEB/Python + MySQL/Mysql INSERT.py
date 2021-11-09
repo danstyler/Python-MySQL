@@ -10,7 +10,7 @@ con = pymysql.connect(host='localhost',
         charset='utf8mb4',
         cursorclass=pymysql.cursors.DictCursor)
 
-pessoa=('robertviado','2005-04-05')
+pessoa=('lucas','2005-04-05')
 
 try:
 
